@@ -6,7 +6,7 @@ import re
 app = Flask(__name__)
 
 # ファイルパス（環境に応じて変更）
-CONSTITUTION_PATH = "/home/mitalab/external-knowledge-library/data/legal/constitution.json"
+CONSTITUTION_PATH = "/mnt/obsidian/external_lib/legal_db/constitution.json"
 
 # JSONロード関数
 def load_constitution():
