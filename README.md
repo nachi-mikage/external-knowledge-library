@@ -10,6 +10,9 @@
 - app/law_api_flask.py – FlaskによるAPI実装
 - data/legal/constitution.json – 憲法データ（e-Govベース）
 
+## 刑法　2025/11/29追加
+- penal_code.json　刑法 （明治四十年法律第四十五号）
+
 ## 皇室法令データ（Imperial House Law Series）2025/11/18追加
 本リポジトリには、日本の皇室関連法令を JSON 形式で構造化した
 皇室法令データセット（LLM最適化版）を収録しています。
